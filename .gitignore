@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+
+# Generated data — re-downloaded by the data_loader module
+data/
+*.csv
+
+# Generated figures
+figures/
+*.png
+
+# Logs
+*.log
+
+# Documentation
+docs/
